@@ -16,3 +16,4 @@ print("총 요금:",basic_cost+voice_cost+data_cost)
     print("총 요금:",basic_cost+voice_cost+data_cost)
 TypeError: can only concatenate tuple (not "float") to tuple
 >>> #아니 왜...........
+#아 첫번째 basic_cost=12.100으로 안 하고 12,100으로 써서 에러남
